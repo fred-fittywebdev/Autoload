@@ -1,0 +1,16 @@
+{
+    "name": "fred/autoload",
+    "description": "Projet wcs sur Composer",
+    "authors": [
+        {
+            "name": "fred",
+            "email": "frederic-guerra_student2021@wild.school"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
